@@ -1,0 +1,15 @@
+* {
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+}
+
+.app > li {
+  display: block;
+  color: tomato;
+  width: 15%;
+  list-style-type: none;
+  line-height: 2em;
+  border: 1px dotted red;
+  margin: auto;
+}
